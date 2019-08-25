@@ -1,0 +1,27 @@
+/* Navigation Style */
+.nav{
+    /* display: flex;
+    flex-wrap: wrap; */
+    /* background-color: #3c4251; */
+}
+.navbar ul {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    background-color: #3c4251;
+    padding: 10px 20px;
+    margin: 0;
+}
+.navbar li a {
+    text-decoration: none;
+    border: 1px solid #959ba3;
+    padding: 15px 25px;
+    display: block;
+    color: #f2f4f7;
+    margin: 0 10px;
+}
+/* Header Style */
+/* Feature Section Style */
+/* Blog Section Style */
+/* Footer Style */
+/* Responsive Layout */
